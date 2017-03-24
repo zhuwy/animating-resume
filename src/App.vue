@@ -24,7 +24,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方 
+* 大家好，我是wenyanzhu
 * 二月了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
@@ -117,32 +117,31 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `朱文琰
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+腾讯上海，[互动娱乐事业群研发部WeTest产品中心](http://wetest.qq.com)，web开发
 
 技能
 ----
 
 * 前端开发
-* Rails 开发
+* PHP 开发
 * Node.js 开发
-* 前端授课
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [AAA](http://wetest.qq.com)
+2. BBB
+3. CCC
+4. DDD
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/zhuwy)
+* [我的文章](http://wetest.qq.com/lab/)
 
 > 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
